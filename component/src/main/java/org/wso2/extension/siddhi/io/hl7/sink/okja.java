@@ -77,14 +77,15 @@ public class okja {
 
             // Display all the validation errors that are generated.
             System.out.println("The following validation errors were found during message validation:");
-
+System.out.println("UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUu");
             for (HL7Exception hl7Exception : probs) {
                 System.out.println(hl7Exception);
             }
-
+//rewhgkhgktkrehthelkjhlkkhgwkgeqygwqkhfwqhtuyf
 
         } catch (Exception e) {
             e.printStackTrace();
+
         }
         /*try {
             File f = new File("/home/mayuravaani/conf/src/main/resources/profiles/okja.xml");
